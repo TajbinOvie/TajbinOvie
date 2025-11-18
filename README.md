@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/2bybgYG/web-development-concepts-blue-banner-vector-44690779.jpg" alt="GitHub Banner" />
+  <img src="https://i.ibb.co.com/8L3dZKCv/1000-F-377082215-Xd-CMMLYICc9u-Dt-X4b-FLP7k0bf-Rf5r-APF.jpg" alt="GitHub Banner" />
 </p>
 
 
