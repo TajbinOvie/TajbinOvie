@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/YjbcPZb/github-banner.png" alt="GitHub Banner" />
+</p>
 
-<!--
-**TajbinOvie/TajbinOvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Tajbin Ovie</h1>
+<h3 align="center">MERN Stack Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+Passionate MERN Stack Developer focused on building fast, responsive, and user-friendly web applications. I love writing clean code, improving UI/UX, and learning new technologies.
+
+### 🔥 Current Activities
+- Exploring **Backend**
+- Working on a **Shipment website**
+- Learning and improving **React + MongoDB** skills
+
+---
+
+## 🚀 Skills & Technologies
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,html,css,tailwind" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/tj-ovie-75195829b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/TANVIRANZUM">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=TANVIRANZUM&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANVIRANZUM&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TANVIRANZUM&theme=tokyonight" />
+</p>
+
+---
+
+
+## ⭐ Thanks for visiting my profile!
