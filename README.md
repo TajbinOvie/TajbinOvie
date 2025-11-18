@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.ibb.co/YjbcPZb/github-banner.png](https://i.ibb.co.com/2bybgYG/web-development-concepts-blue-banner-vector-44690779.jpg)" alt="GitHub Banner" />
+  <img src="https://i.ibb.co/2bybgYG/web-development-concepts-blue-banner-vector-44690779.jpg" alt="GitHub Banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Tajbin Ovie</h1>
 <h3 align="center">MERN Stack Developer</h3>
@@ -68,6 +69,5 @@ Passionate MERN Stack Developer focused on building fast, responsive, and user-f
 </p>
 
 ---
-
 
 ## ⭐ Thanks for visiting my profile!
