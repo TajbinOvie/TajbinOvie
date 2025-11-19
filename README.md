@@ -85,19 +85,14 @@ Passionate MERN Stack Developer focused on building fast, responsive, and user-f
 
 ---
 
-## 🌐 Connect With Me
+## Contact
+## Contact
+Feel free to reach out to me or connect with me on:  
 
-<p style="display: inline-flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/tj-ovie-75195829b" target="_blank" style="margin-right: 8px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tjovie01@gmail.com" style="margin-right: 8px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/TajbinOvie" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tj-ovie-75195829b) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjovie01@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tajbin.ovie)
+
+Let's connect and discuss exciting opportunities!
+
 
 
 
