@@ -86,19 +86,21 @@ Passionate MERN Stack Developer focused on building fast, responsive, and user-f
 ---
 
 ## 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/tj-ovie-75195829b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+
+<p style="display: inline-flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/tj-ovie-75195829b" target="_blank" style="margin-right: 8px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tjovie01@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:tjovie01@gmail.com" style="margin-right: 8px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/TajbinOvie">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/TajbinOvie" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+
+
 
 
 ---
