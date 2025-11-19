@@ -91,14 +91,15 @@ Passionate MERN Stack Developer focused on building fast, responsive, and user-f
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tjovie01@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/TANVIRANZUM">
+  <a href="https://github.com/TajbinOvie">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
 
 ---
 
