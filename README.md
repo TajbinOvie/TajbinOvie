@@ -19,7 +19,7 @@ Passionate MERN Stack Developer focused on building fast, responsive, and user-f
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 When I code, I rely on
 
 <table>
   <tr>
