@@ -86,7 +86,6 @@ Passionate MERN Stack Developer focused on building fast, responsive, and user-f
 ---
 
 ## Contact
-## Contact
 Feel free to reach out to me or connect with me on:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tj-ovie-75195829b) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjovie01@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tajbin.ovie)
